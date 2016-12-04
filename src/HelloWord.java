@@ -17,5 +17,6 @@ public class HelloWord extends HttpServlet{
 
         System.out.println("用户名："+username);
         System.out.println("密码："+password);
+
     }
 }
